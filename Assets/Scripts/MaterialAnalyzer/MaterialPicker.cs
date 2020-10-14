@@ -1,7 +1,6 @@
 ﻿using DeveloperTools;
 using UnityEngine;
 
-#if UNITY_EDITOR
 namespace DeveloperTools
 {
     /// <summary>
@@ -16,4 +15,3 @@ namespace DeveloperTools
 
     }
 }
-#endif
